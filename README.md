@@ -1,26 +1,14 @@
 # Learn Julia by Hacking
 
 [![Build Status](https://travis-ci.org/zhmz90/Learn_Julia_by_Hacking.jl.svg?branch=master)](https://travis-ci.org/zhmz90/Learn_Julia_by_Hacking.jl)
-	
-### Introduction
-Julia is a modern dynamic programming language for technical computing based on LLVM.
-- easy to learn
-- easy to write high performance code
-- many other features at [JuliaLang](http://julialang.org)
-	
-### LLVM
-	
-	
-### Metaprogramming
-	
 
-### Wrap C
-
-
-### HPC
-
-
-### Julia Internal
+### Book Contents
+- [Introduction](books/Introduction.md)
+- LLVM
+- Metaprogramming
+- [Wrap C](books/Wrap_C.md)
+- HPC
+- Julia Internal
 
 
 ### License
