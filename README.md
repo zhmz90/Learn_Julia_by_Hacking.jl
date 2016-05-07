@@ -4,7 +4,7 @@
 
 ### Book Contents
 - [Introduction](books/Introduction.md)
-- LLVM
+- [LLVM](books/LLVM.md)
 - Metaprogramming
 - [Wrap C](books/Wrap_C.md)
 - HPC

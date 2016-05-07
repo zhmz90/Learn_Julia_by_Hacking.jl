@@ -2,6 +2,7 @@
 
 ### shared library
 How to make a shared library
+
 	`clang toy.c -o libtoy.so -fpic -shared`
 
 ### ccall
